@@ -1,7 +1,8 @@
 # 🏥 Sistema de Gestión de Pacientes
 
+Autor: Nicolás Tovar Gaviria
 Trabajo Final — Programación 2  
-Lenguaje: **C++** | Archivos: **Binarios (.dat)** | Entorno: **Dev-C++ 5.11**
+Lenguaje: **C++** 
 
 ---
 
@@ -57,7 +58,3 @@ struct Paciente {
 5. El archivo `pacientes.dat` se crea automáticamente en la misma carpeta
 
 ---
-
-## Acceso al código
-
-Este proyecto es de **acceso restringido**. No está permitida su copia, distribución ni modificación sin autorización expresa del autor.
