@@ -1,6 +1,6 @@
 # 🏥 Sistema de Gestión de Pacientes
 
-Autor: Nicolás Tovar Gaviria
+Autor: Nicolás Tovar Gaviria   
 Trabajo Final — Programación 2  
 Lenguaje: **C++** 
 
