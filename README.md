@@ -20,6 +20,8 @@ Sistema de gestión de pacientes desarrollado en C++ como proyecto final de la m
 - **Borrar** un paciente con confirmación previa
 - **Listar** todos los pacientes registrados
 - **Ordenar** pacientes por nombre, ID o edad (Bubble Sort)
+- **Reuperar** pacientes borrados
+
 
 ---
 
